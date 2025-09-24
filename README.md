@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I'm currently studying comp. eng.<br>🖥️ I've been working on web technologies this semester.<br>🌱 In general, I am open to learning new things.
+📚 I'm currently studying comp. eng.<br>📱 I've been working on mobile development now.<br>🌱 In general, I am open to learning new things.
 
 
 ## 🌐 Socials:
